@@ -35,5 +35,4 @@ else:
     reminder += ". Consider completing it when you have free time."
 
 # Output final reminder
-print("\nReminder:", reminder)
-    
+print(f"Reminder:", f"'{task}' is a high priority task that requires immediate attention today!")
